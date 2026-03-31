@@ -41,7 +41,7 @@ This project analyzes the current trends in the AI job market using interactive 
 
 📸 Dashboard Preview
 
-(Add screenshot here after uploading image)
+(Screenshot 2026-03-15 222538.png)
 
 ---
 
